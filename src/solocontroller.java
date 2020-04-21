@@ -7,7 +7,14 @@ public class solocontroller {
 public solocontroller(soloview theview, solomodel themodel) {
     this.Theview = theview;
     this.Themodel = themodel;
-    this.Theview.addsoloListener(new sololistener());
+    this.Theview.addSoloListener(new Sololistener());
+}
+
+private class Sololistener implements ActionListener{
+    @Override
+    public void actionPerformed(ActionEvent e) {
+        int
+    }
 }
 
 }
