@@ -6,3 +6,5 @@ Jag har valt detta för att det innehåller redan en databas uppkoppling och en 
 Det som behövs göras är en GUI där användaren kan välja olika alternativ för att fortsätta äventyret.
 
 Databasen behöver utvecklas för att ha mer innehåll.
+
+V.17 börjat med gui och MVC
