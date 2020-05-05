@@ -7,19 +7,19 @@ public class DatabaseExample {
         try {
 
             Connection conn = DriverManager.getConnection(
-                    "jdbc:mysql://"+DatabaseLoginData.DBURL + ":" + DatabaseLoginData.port + "/" + DatabaseLoginData.DBname +
+                    "jdbc:mysql://" + DatabaseLoginData.DBURL + ":" + DatabaseLoginData.port + "/" + DatabaseLoginData.DBname +
                             "? allowPublicKeyRetrieval=true&useSSL=false&serverTimezone=UTC",
                     DatabaseLoginData.user, DatabaseLoginData.password);
 
             Statement stmt = conn.createStatement();
-            int story_id = 1;
+            int story_id = getStory_id();
             int target_id = 2;
             String strSelect = "select body from story where id = " + story_id;
             System.out.println("The SQL statement is: " + strSelect + "\n");
             ResultSet rset = stmt.executeQuery(strSelect);
 
             System.out.println("Story body:");
-            while(rset.next()) {
+            while (rset.next()) {
                 String body = rset.getString("body");
                 System.out.println(body);
             }
@@ -56,5 +56,9 @@ public class DatabaseExample {
         } catch(SQLException ex) {
             ex.printStackTrace();
         }
+    }
+
+    private static int getStory_id() {
+        return 1;
     }
 }

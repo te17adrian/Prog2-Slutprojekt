@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="caeb37c7-f2a4-42cc-8699-d557dab953f7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DatabaseExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DatabaseExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solocontroller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solocontroller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/soloview.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/soloview.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/soloview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/soloview.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +33,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -103,13 +108,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" width="1281" height="851" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584439420698" />
-    <state x="655" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585637665695">
+    <state x="655" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1588662904205">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="655" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585637665695" />
+    <state x="655" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588662904205" />
     <state x="619" y="179" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584434052599">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="619" y="179" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1584434052599" />
+    <state x="1170" y="275" width="540" height="496" key="extract.method.dialog" timestamp="1588666954135">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1170" y="275" width="540" height="496" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588666954135" />
   </component>
 </project>

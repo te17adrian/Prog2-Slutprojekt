@@ -13,7 +13,8 @@ public solocontroller(soloview theview, solomodel themodel) {
 private class Sololistener implements ActionListener{
     @Override
     public void actionPerformed(ActionEvent e) {
-        int
+        int story_id, target_id = 1;
+
     }
 }
 
