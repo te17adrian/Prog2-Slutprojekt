@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="caeb37c7-f2a4-42cc-8699-d557dab953f7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DatabaseExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DatabaseExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solocontroller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solocontroller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/soloadventurejava/DatabaseExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/soloadventurejava/DatabaseExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/soloadventurejava/solocontroller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/soloadventurejava/solomodel.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/soloview.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/soloview.form" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/soloview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/soloview.java" afterDir="false" />
     </list>
@@ -77,13 +78,32 @@
       <option name="presentableId" value="Default" />
       <updated>1583832113757</updated>
     </task>
+    <task id="LOCAL−00001" summary="V.19">
+      <created>1588668773407</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1588668773407</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="V.19" />
+    <option name="LAST_COMMIT_MESSAGE" value="V.19" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#Notifications" timestamp="1585040711794">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1585040711794" />
+    <state x="729" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1589268952085">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="729" y="221" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1589268952085" />
+    <state x="614" y="114" key="CommitChangelistDialog2" timestamp="1588668772185">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="614" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588668772185" />
     <state x="666" y="261" key="FileChooserDialogImpl" timestamp="1585040624848">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -108,10 +128,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" width="1281" height="851" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584439420698" />
-    <state x="655" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1588662904205">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1588668791310">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="655" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588662904205" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588668791310" />
+    <state x="655" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1589266623550">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589266623550" />
     <state x="619" y="179" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584434052599">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
