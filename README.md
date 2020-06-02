@@ -8,3 +8,5 @@ Det som behövs göras är en GUI där användaren kan välja olika alternativ f
 Databasen behöver utvecklas för att ha mer innehåll.
 
 V.17 börjat med gui och MVC
+
+Postmortem finns i Wiki
